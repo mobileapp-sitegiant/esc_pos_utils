@@ -1,4 +1,4 @@
-import 'package:image/image.dart';
+import 'package:image_v3/image_v3.dart';
 import 'dart:typed_data';
 import 'package:flutter/services.dart';
 import 'package:esc_pos_utils/esc_pos_utils.dart';
